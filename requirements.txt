@@ -1,5 +1,6 @@
 fastapi
 uvicorn
-essentia==2.1b6
+essentia==2.1b6.dev1389
 pip
 numpy
+
